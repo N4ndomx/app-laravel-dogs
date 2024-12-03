@@ -43,6 +43,12 @@
                         <a class="nav-link" href="{{ route('servicios.index') }}">Servicios</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="{{ route('productos.index') }}">Productos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ route('ventas.index') }}">Vender</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="{{ route('citas.index') }}">Citas</a>
                     </li>
                 </ul>
